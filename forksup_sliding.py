@@ -15,7 +15,7 @@ window_width, window_height = screen.get_size()
 pygame.display.set_caption('ASU Pride!')
 
 message = "Forks Up ASUUUUUUUU!!!!!"
-slide_speed = 15
+slide_speed = 30
 
 def get_optimal_font_size(message):
     font_size = window_height
